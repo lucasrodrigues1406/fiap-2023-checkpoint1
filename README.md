@@ -4,4 +4,3 @@ Integrantes
 
 Lucas Rodrigues Ferreira Da Silva 88776 
 
-Julio Cesar Galan 87807
