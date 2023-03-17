@@ -3,4 +3,5 @@
 Integrantes
 
 Lucas Rodrigues Ferreira Da Silva 88776 
+Wesley Taveiros
 
